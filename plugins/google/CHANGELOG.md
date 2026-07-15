@@ -1,5 +1,14 @@
 # @livekit/agents-plugin-google
 
+## 1.5.3
+
+### Patch Changes
+
+- Gate mixed Gemini built-in and function tool requests to the Gemini 3 Developer API and build Google tool config in chat requests. - [#2035](https://github.com/livekit/agents-js/pull/2035) ([@rosetta-livekit-bot](https://github.com/apps/rosetta-livekit-bot))
+
+- Updated dependencies [[`bad25fd`](https://github.com/livekit/agents-js/commit/bad25fd1dba0e6676fc1153a443dc6acde82626d), [`206e884`](https://github.com/livekit/agents-js/commit/206e884914f8beb658235351bf1c6a20b98d3ac6), [`508236a`](https://github.com/livekit/agents-js/commit/508236a77d5b3dd97b93c3b47030f5852dcdd5fe), [`2312eed`](https://github.com/livekit/agents-js/commit/2312eedf02dceaed0ef8554f545c2a5acd720121)]:
+  - @livekit/agents@1.5.3
+
 ## 1.5.2
 
 ### Patch Changes
